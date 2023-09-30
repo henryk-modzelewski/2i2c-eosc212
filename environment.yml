@@ -1,7 +1,6 @@
 channels:
   - conda-forge
 dependencies:
-  - conda-lock
   - git=2.41.0
   - jupyter=1.0.0
   - nbgitpuller=1.2.0
