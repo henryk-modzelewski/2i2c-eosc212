@@ -1,7 +1,6 @@
 channels:
   - conda-forge
 dependencies:
-  - geopandas=0.14
   - git=2.41.0
   - jupyter=1.0.0
   - nbgitpuller=1.2.0
@@ -14,4 +13,5 @@ dependencies:
   - seaborn=0.13
   - setuptools=68.1.2
   - pip:
+    - geopandas==0.14
     - nbconvert[webpdf]
