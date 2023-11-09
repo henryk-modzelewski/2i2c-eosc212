@@ -3,6 +3,7 @@ channels:
 dependencies:
   - git=2.41.0
   - jupyter=1.0.0
+  - matplotlib=3.8
   - nbgitpuller=1.2.0
   - numpy=1.25.2
   - orange3=3.34
