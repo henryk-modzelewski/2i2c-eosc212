@@ -7,7 +7,7 @@ dependencies:
   - nbgitpuller=1.2.0
   - numpy=1.25.2
   - orange3=3.34
-  - pandas=2.0.3
+  - pandas=1.5.3
   - pip=23.2.1
   - python=3.10
   - scikit-learn=1.3.1
