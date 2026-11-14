@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - python=3.11
   - git
   - jupyter
   - matplotlib
@@ -9,7 +10,6 @@ dependencies:
   - orange3
   - pandas
   - pip
-  - python
   - scikit-learn
   - seaborn
   - setuptools
